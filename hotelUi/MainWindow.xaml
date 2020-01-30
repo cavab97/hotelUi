@@ -145,12 +145,12 @@
                     </Grid>
                 </Button>
 
-                <Button Margin="10" Click="Button_Click" Foreground="#FFE4DDDD" BorderBrush="#FF4850E5" Background="#FF8522BD">
+                <!--<Button Margin="10" Click="Button_Click" Foreground="#FFE4DDDD" BorderBrush="#FF4850E5" Background="#FF8522BD">
                     <Grid Width="150">
                         <materialDesign:PackIcon Kind="ContentPaste" VerticalAlignment="Center"/>
                         <TextBlock HorizontalAlignment="Center" Text="Table"/>
                     </Grid>
-                </Button>
+                </Button>-->
             </StackPanel>
         </Grid>
 
